@@ -24,7 +24,7 @@ void explainvector()
     // vector of pair
     vector<pair<int ,int> >vec;
     vec.push_back(make_pair(1,2));
-    // vec.emplace_back(3,4); 
+    // vec.emplace_back(3,4);
 
     //predefined size of vector
     vector<int>v0(5,10); //{10,10,10,10,10}
