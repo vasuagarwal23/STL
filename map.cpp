@@ -1,6 +1,6 @@
 //map--->key              value
 //      unique      can be same can be different
-//      ex-Roll.no.
+//      example-Roll.no.
 //       102          yash
 //       103          yash
 //from the above example we can see that roll.no.(key) is unique
