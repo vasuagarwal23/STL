@@ -38,6 +38,8 @@ void algo(){
 
     int num=7;
     int cnt=__builtin_popcount(num);//return no. of set bit in 7-->3
+    //t.c->O(1)//of --builtin_popcount().
+    //sc->O(1)//of --builtin_popcount().
     long long num=7888918198189189;
     int cnt=__builtin_popcountll(num);
      
