@@ -50,6 +50,8 @@ void algo(){
     //in dictionary manner if my string is 123 it will print total 6 permutation
     //but if it is 321 it will print 3 .
     //so string should be in sorted manner for getting all the permutations
+    //t.c->O(N)
+    //s.c->O(1)
      int maxi=*max_element(a,a+4);
 
 
